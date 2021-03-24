@@ -1,0 +1,62 @@
+body{
+    background-color: #00ffff;
+}
+
+.block-info{
+    background-color: #ffa401;
+    width: 450px;
+    border-radius: 100px;
+    padding: 20px;
+    margin: 0 auto;
+}
+
+.block-info p{
+    color: white;
+    text-align: center;
+    font-size: 28px;
+}
+
+.circle{
+    background-color: #fff;
+    display: block;
+    margin: 0px 500px;
+    border-radius: 500px;
+    width: 500px;
+    height: 500px;
+    text-align: center;
+}
+
+.circle p{
+    color: red;
+    font-size: 60px;
+    line-height: 300px;
+}
+
+
+.users{
+    background-color: #ffa401;
+    width: 1000px;
+    padding-bottom: 100px;
+    padding-top: 100px;
+    margin: 0 auto;
+    border-radius: 100px;
+}
+
+.users li{
+    height: 30px;
+    width: 800px;
+    margin: 5px auto;
+    border-radius: 100px;
+    background-color: #fff;
+    text-align: center;
+    list-style: none;
+    font-size: 26px;
+}
+
+.user-trash{
+    color: #ff00c8;
+    background-color: #123;
+    border-radius: 300px;
+    float: right;
+}
+
